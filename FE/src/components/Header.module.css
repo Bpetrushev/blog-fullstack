@@ -1,0 +1,12 @@
+.headerLogo {
+  font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+  text-align: center;
+}
+
+.inputSearch {
+  align-self: center;
+  padding: 10px;
+  width: 50%;
+  height: 15px;
+  font-weight: bold;
+}
